@@ -1,9 +1,9 @@
 name             'git_user'
-maintainer       'Vasily Mikhaylichenko'
-maintainer_email 'vaskas@lxmx.com.au'
+maintainer       'Roberto Silvino'
+maintainer_email 'robertosilvino@gmail.com'
 license          'BSD'
 description      'Git users configuration'
-version          '0.3.1'
+version          '0.3.2'
 
 %w{redhat centos ubuntu gentoo}.each do |os|
   supports os
